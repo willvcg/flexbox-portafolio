@@ -1,0 +1,10 @@
+h1{
+    font-size: 40px;
+    color: chartreuse;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+p{
+    background-color: coral;
+}
