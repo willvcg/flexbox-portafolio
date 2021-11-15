@@ -1,10 +1,15 @@
-h1{
-    font-size: 40px;
-    color: chartreuse;
-    font-style: italic;
-    text-transform: uppercase;
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
 }
 
-p{
-    background-color: coral;
+#container{
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #eee;
+    box-shadow: 0px 0px 12px rgba(225, 225, 226, 0.8);
 }
